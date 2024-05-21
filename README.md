@@ -5,7 +5,7 @@ Check out [the demo](https://bvaughn.github.io/react-virtualized/) for some exam
 
 ### If you like this project, 🎉 [become a sponsor](https://github.com/sponsors/bvaughn/) or ☕ [buy me a coffee](http://givebrian.coffee/)
 
-### Sponsors
+### Sponsors 123
 
 The following wonderful companies have sponsored react-virtualized:
 
